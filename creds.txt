@@ -1,0 +1,6 @@
+# Reddit API Credentials
+reddit = praw.Reddit(client_id='oc9r-sx5stYYUlcstYdG3A',
+                     client_secret='KVZ8JNiAf7I3nFdqg4lkNUUsfPcorw',
+                     user_agent='Windows:RedditVideoDownloader:1.0 (by /u/gruff_ow)',
+                     username='gruff_ow',
+                     password='O5carevie')
